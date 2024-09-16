@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.gymn.zzz.com.ua/index.html</title>
+  <link>http://www.gymn.zzz.com.ua/index.html</link>
+
+<item>
+     <link>http://www.gymn.zzz.com.ua/index.html</link>
+     <title>Головна</title>
+     <description>Семенівська гімназія №2 - це заклад зі 150-ти річною історією. Він був і залишається першим по багатьом критеріям.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.gymn.zzz.com.ua/history.html</link>
+     <title>Історія</title>
+     <description> </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.gymn.zzz.com.ua/colective.html</link>
+     <title>Педколектив</title>
+     <description>Семенівська гімназія №2 - це заклад зі 150-ти річною історією. Він був і залишається першим по багатьом критеріям.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.gymn.zzz.com.ua/dosyagnennya.html</link>
+     <title>Досягнення</title>
+     <description>Семенівська гімназія №2 - це заклад зі 150-ти річною історією. Він був і залишається першим по багатьом критеріям.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.gymn.zzz.com.ua/rozklad.html</link>
+     <title>Розклад</title>
+     <description>Семенівська гімназія №2 - це заклад зі 150-ти річною історією. Він був і залишається першим по багатьом критеріям.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.gymn.zzz.com.ua/zno.html</link>
+     <title>ЗНО-2019</title>
+     <description> </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.gymn.zzz.com.ua/kontakty.html</link>
+     <title>Контакти</title>
+     <description>Семенівська гімназія №2 - це заклад зі 150-ти річною історією. Він був і залишається першим по багатьом критеріям.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.gymn.zzz.com.ua/images/prezentacija.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
